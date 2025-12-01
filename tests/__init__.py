@@ -1,2 +1,4 @@
-"""Test suite"""
+"""
+Test module for AI Homework Management System
+"""
 
