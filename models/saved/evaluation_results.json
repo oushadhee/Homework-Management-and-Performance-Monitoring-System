@@ -21,19 +21,19 @@
     },
     "descriptive": {
       "tested": 20,
-      "avg_score_for_correct": 74.27
+      "avg_score_for_correct": 74.3
     }
   },
   "keyword_extraction": {
-    "precision": 12.0,
-    "recall": 32.83,
-    "f1_score": 17.58
+    "precision": 12.67,
+    "recall": 34.72,
+    "f1_score": 18.56
   },
   "overall": {
     "question_validity": 100.0,
     "mcq_accuracy": 100.0,
-    "keyword_f1": 17.58,
-    "overall_score": 72.53
+    "keyword_f1": 18.56,
+    "overall_score": 72.85
   },
-  "evaluated_at": "2025-12-08T18:45:17.410981"
+  "evaluated_at": "2025-12-26T12:18:58.035913"
 }
